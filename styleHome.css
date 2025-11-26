@@ -1,0 +1,168 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.main{
+    width: 100%;
+    background : linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(all-white-background-uw1xhss5h4qxb49y.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 200vh;
+}
+
+
+.navbar{
+    width: 1200px;
+    height: 75px;
+    margin: auto;
+}
+
+.icon{
+    width: 200px;
+    float: left;
+    height: 70px;
+}
+
+.logo{
+    color: #ff7200;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+    float: left;
+    padding-top: 10px;
+
+}
+.icon1{
+    background : linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(38602.jpg);
+    background-position-x: center;
+    background-size: cover;
+    width: 250px;
+    float: left;
+    height: 250px;
+    margin-top: 100px;
+    margin-left: 50px;
+    border-radius: 5px;
+    right: 20px;
+}
+
+.icon2{
+    background : linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(38602.jpg);
+    background-position-x: center;
+    background-size: cover;
+    width: 250px;
+    float: left;
+    height: 250px;
+    margin-top: 100px;
+    margin-left: 70px;
+    border-radius: 5px;
+    right: 20px;
+}
+
+.icon3{
+    background : linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(38602.jpg);
+    background-position-x: center;
+    background-size: cover;
+    width: 250px;
+    float: left;
+    height: 250px;
+    margin-top: 100px;
+    margin-left: 90px;
+    border-radius: 5px;
+    right: 20px;
+}
+
+
+.icon4{
+    background : linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(R.jpeg);
+    background-position-x: center;
+    background-size: cover;
+    width: 250px;
+    float: left;
+    height: 250px;
+    margin-top: 100px;
+    margin-left: 50px;
+    border-radius: 5px;
+    right: 20px;
+}
+
+
+.icon5{
+    background : linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(38602.jpg);
+    background-position-x: center;
+    background-size: cover;
+    width: 250px;
+    float: left;
+    height: 250px;
+    margin-top: 150px;
+    margin-left: 50px;
+    border-radius: 5px;
+    right: 20px;
+}
+
+.icon6{
+    background : linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(38602.jpg);
+    background-position-x: center;
+    background-size: cover;
+    width: 250px;
+    float: left;
+    height: 250px;
+    margin-top: 150px;
+    margin-left: 50px;
+    border-radius: 5px;
+    right: 20px;
+}
+
+.icon7{
+    background : linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(38602.jpg);
+    background-position-x: center;
+    background-size: cover;
+    width: 250px;
+    float: left;
+    height: 250px;
+    margin-top: 150px;
+    margin-left: 70px;
+    border-radius: 5px;
+    right: 20px;
+}
+
+.icon8{
+    background : linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(1912743.jpg);
+    background-position-x: center;
+    background-size: cover;
+    width: 250px;
+    float: left;
+    height: 250px;
+    margin-top: 150px;
+    margin-left: 90px;
+    border-radius: 5px;
+    right: 20px;
+}
+
+.content{
+    width: 500px;
+    height: 400px;
+    margin-left: 50px;
+    margin-top: 350px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    top: 50px;
+}
+
+.content h1{
+    color: rgb(228, 177, 10);
+    margin-bottom: 20px;
+    font-size: 40px;
+}
+
+.content.par{
+    margin-top: 20px;
+    font-size: 14px;
+    color: rgb(7, 179, 179);
+}
+
+.content.cn{
+    margin-top: 30px;
+}
+
